@@ -7,8 +7,8 @@ Este proyecto consiste en el desarrollo colaborativo de una calculadora básica 
 ## 👥 Integrantes del Equipo
 
 - **Colaborador 1:** [Nombre]
-- **Colaborador 2:** [Nombre]
-- **Colaborador 3:** [Nombre]
+- **Colaborador 2:** Suarez Guadalupe
+
 
 
 ## 🔧 Funcionalidades Implementadas
