@@ -80,7 +80,7 @@ void mostrar_menu()
     printf("Seleccione una opcion: ");
 }
 
-// Crear las demás funciones aquí
-
-
+int multiplicar(int a, int b){
+    return a*b;
+}
 
