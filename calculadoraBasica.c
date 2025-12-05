@@ -80,6 +80,10 @@ void mostrar_menu()
     printf("Seleccione una opcion: ");
 }
 
+int sumar(int a, int b){
+    return a+b;
+}
+
 int restar (int a, int b){
     return a - b;
 }
